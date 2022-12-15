@@ -22,12 +22,12 @@
             <div class="form-inline navbar-nav w-75 px-3">
               <input type="text" placeholder="Pesquisar..." id="form1" class="form-control"/>
             </div>
-            <button type="button" class="btn btn-success">
+            <button type="button" class="btn">
               <i class="bi bi-search"></i>
             </button>
           </div>
           <div class="row1 row">
-                <a href="#" class="col1 col-4">
+                <a href="Login.html" class="col1 col-4">
                     <h1><i class="bi bi-person-circle"></i></h1>
                 </a>
                 <a href="#" class="col2 col-4">
@@ -35,75 +35,65 @@
                 </a>
           </div>
     </nav> <!-- navbar1 -->
-    <nav class="d-flex navbar-expand-lg navbar-success bg-success">
-        <button type="button" class="navbar-toggler bg-success" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-    </nav> <!-- navbar2 -->
-    <div class="bg-image" style="background-image: url(https://st2.depositphotos.com/1998651/6951/v/600/depositphotos_69511799-stock-illustration-football-field-top-view-vector.jpg) ;">
+    <div class="bckgd bg-image img-fluid" style="background-image: url(https://static.vecteezy.com/system/resources/thumbnails/001/791/004/original/soccer-ball-rotating-isolated-on-black-background-free-video.jpg) ;">
         <div class="container-fluid">
-            <div class="text-start py-4">
+            <div class="text-start px-5 mx-5 py-4 text-light">
                 <h1>Jogue mais,</h1>
                 <h1>treine mais,</h1>
                 <h1>seja mais.</h1>
             </div>
         </div>
     </div> <!-- Background -->
-    <div class="bg-success px-3 py-3 text-center">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROQEWnNpqQ0Hu1DWiWXd7RmnATkYyvoh1oeBfBBAFsBMA5CYsEybyMPGYTOqkM-KIePN4&usqp=CAU" class="px-4 mx-3 img-fluid" alt="Produto 1">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROQEWnNpqQ0Hu1DWiWXd7RmnATkYyvoh1oeBfBBAFsBMA5CYsEybyMPGYTOqkM-KIePN4&usqp=CAU" class="px-4 mx-3 img-fluid" alt="Produto 2">
+    <div class="dstqs px-3 py-3 text-center">
+        <a href="indexpagina2.html">
+            <img src="https://images.pond5.com/basketball-ball-rotating-black-background-footage-059738313_iconl.jpeg" class="img1 px-4 mx-3" alt="Produto 1">
+        </a>
+        <img src="https://i.pinimg.com/564x/5d/1b/f6/5d1bf6988bf39e7543fd010a6a37ba9e.jpg" class="px-4 mx-3 img-fluid" alt="Produto 2">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROQEWnNpqQ0Hu1DWiWXd7RmnATkYyvoh1oeBfBBAFsBMA5CYsEybyMPGYTOqkM-KIePN4&usqp=CAU" class="px-4 mx-3 img-fluid" alt="Produto 3">
     </div> <!-- Produtos em destaque -->
-    <div class="row2 my-3 mx-4 px-4 py-3 row">
-        <div class="col-3">
-            <img src="" alt="Produto 4" class="px-4 mx-2 img-fluid">
-            <img src="" alt="Produto 4" class="px-4 mx-2 img-fluid">
-            <img src="" alt="Produto 4" class="px-4 mx-2 img-fluid">
-            <img src="" alt="Produto 4" class="px-4 mx-2 img-fluid">
-        </div> <!-- Coluna 1 de produtos -->
-        <div class="col-3">
-            <img src="" alt="Produto 5" class="px-4 mx-2 img-fluid">
-            <img src="" alt="Produto 5" class="px-4 mx-2 img-fluid">
-            <img src="" alt="Produto 5" class="px-4 mx-2 img-fluid">
-            <img src="" alt="Produto 5" class="px-4 mx-2 img-fluid">
-        </div> <!-- Coluna 2 de produtos -->
-        <div class="col-3">
-            <img src="" alt="Produto 6" class="px-4 mx-2 img-fluid">
-            <img src="" alt="Produto 6" class="px-4 mx-2 img-fluid">
-            <img src="" alt="Produto 6" class="px-4 mx-2 img-fluid">
-            <img src="" alt="Produto 6" class="px-4 mx-2 img-fluid">
-        </div> <!-- Coluna 3 de produtos -->
-        <div class="col-3">
-            <img src="" alt="Produto 7" class="px-4 mx-2 img-fluid">
-            <img src="" alt="Produto 7" class="px-4 mx-2 img-fluid">
-            <img src="" alt="Produto 7" class="px-4 mx-2 img-fluid">
-            <img src="" alt="Produto 7" class="px-4 mx-2 img-fluid">
-        </div> <!-- Coluna 4 de produtos -->
-    </div> <!-- Produtos -->
+    <div class="divv">
+        <h1 style="color: black;">a
+        </h1>
+        <h1 style="color: black;">
+        a</h1>
+    </div>
     <footer class="container-fluid py-4">
-        <ul>
-            <li>
+        <div>
+            <ul>
+                <li>
+                    <a href="#">
+                        <i class="bi bi-envelope">Email de contato: stadio323@gmail.com</i>
+                    </a>
+                </li>
+                <li>
                 <a href="#">
-                    <i class="bi bi-envelope"></i>
+                    <i class="bi bi-instagram"></i>
                 </a>
-            </li>
-            <li>
-            <a href="#">
-                <i class="bi bi-instagram"></i>
-            </a>
-            </li>
-            <li>
-                <a href="#">
-                    <i class="bi bi-facebook"></i>
-                </a>
-            </li>
-            <li>
-                <a href="#">
-                    <i class="bi bi-twitter"></i>
-                </a>
-            </li>
-        </ul>
-
+                </li>
+                <li>
+                    <a href="https://www.facebook.com/profile.php?id=100088427183224">
+                        <i class="bi bi-facebook"></i>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="d-flex justify-content-end">
+            <table style="width:100%">
+                <tr>
+                  <th>Membros</th>
+                  <th>Contato</th>
+                </tr>
+                <tr>
+                  <td>Levy Matias</td>
+                  <td>levymatiasemail</td>
+                </tr>
+                <tr>
+                  <td>Marcos Luan</td>
+                  <td>marcos.luan.oliveira03@aluno.ifce.edu.br</td>
+                </tr>
+              </table>
+              
+        </div>
     </footer> <!-- Contatos -->
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
