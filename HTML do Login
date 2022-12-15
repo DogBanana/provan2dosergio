@@ -14,9 +14,9 @@
         <div class="tamanho row">
             <div class="container col-12">
                 <div class="imge col-6">
-                    <a href="#">
-                        <img src="C:\Users\profa\Downloads\Meu projeto.png" alt="">
-                    </a>
+                    <a href="index.html">
+                        <h1 class="bg-light text-dark">STADIO</h1>
+                     </a>
                 </div>
 
         <div class="lar">
@@ -60,7 +60,7 @@
                     </h5>
                 </div>
                 <div class="criar">
-                    <a href="Conta.html">Crie sua conta</a>
+                    <a href="indexregistro.html">Crie sua conta</a>
                 </div>
             </div>
         </div>
